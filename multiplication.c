@@ -24,7 +24,7 @@ int fnMult(int num1, int num2)
 
  int product=0;
 
- product=num1-num2;
+ product=num1*num2;
 
  return product;
 
